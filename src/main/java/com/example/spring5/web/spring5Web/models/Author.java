@@ -6,7 +6,6 @@ import java.util.Objects;
 import java.util.Set;
 
 @Entity
-@Table(name = "authors")
 public class Author {
 
     @Id
